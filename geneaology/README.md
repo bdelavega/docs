@@ -1,8 +1,12 @@
 # geneaology
 
-This folder contains my geneaology research notes. 
+This folder contains my geneaology notes.
+
+To start navigating, try my [Mom](./Betty-Louise-Bowers.md) or [Dad](./Gabriel-Raul-de-la-Vega.md).
+
 
 ##resources##
+I used:
 
 [Ancestry](http://www.ancestry.com/)
 
@@ -16,6 +20,3 @@ This folder contains my geneaology research notes.
 ##notes##
 
 * Chris de la Vega had a professor named "de la Vega" via Mexico - she thought the family was from Asturias region of Spain
-
-link - https://github.com/bdelavega/docs/blob/master/geneaology/Chester-L-Bowers.md
-https://github.com/bdelavega/docs/blob/master/geneaology/Chester-L-Bowers.md
