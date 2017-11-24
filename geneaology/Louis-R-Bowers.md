@@ -16,7 +16,7 @@ Lived in:
 * Chambersburg Ward 3, Franklin, Pennsylvania, United States (1910, 1920 census)
 * 
 
-Married to: [Minnie E Bowers](./Minnie-E-Bowers.html) ~1897 (from the 1900 census)
+Married to: [Minnie E Bowers](./Minnie-E-Bowers.md) ~1897 (from the 1900 census)
 
 DOD: 3-Apr-1930
 

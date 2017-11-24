@@ -26,7 +26,7 @@ Lived in:
 
 * Austin, Mower, Minnesota USA
 
-Married to: [Chester L Bowers](./Chester-L-Bowers.html) on 12-Jul-1923
+Married to: [Chester L Bowers](./Chester-L-Bowers.md) on 12-Jul-1923
 
 DOD: 3-Jun-1982 (Orlando FL)
 

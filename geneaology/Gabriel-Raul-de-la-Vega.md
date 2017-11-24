@@ -4,7 +4,7 @@ DOB: 30-Apr-1917
 
 Father: Raul de la Vega
 
-Mother: [Gloria Diaz](./Gloria-Diaz.html)
+Mother: [Gloria Diaz](./Gloria-Diaz.md)
 
 Birthplace: Havana, Cuba
 
@@ -15,7 +15,7 @@ Lived in:
 * 1435 Lexington Ave, New York, NY
 * 3237 55th Street, Woodside, Queens, NY
 
-Married to: [Betty Bowers](./Betty-Louise-Bowers.html) on 25-Jun-1945 in Cook County IL
+Married to: [Betty Bowers](./Betty-Louise-Bowers.md) on 25-Jun-1945 in Cook County IL
 
 Divorced : 4-Sep-1980 in Judicial Court of Danbury CT
 

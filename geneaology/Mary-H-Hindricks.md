@@ -12,6 +12,6 @@ Lived in:
 
 * Hancock, Indiana (1900 Indiana census)
 
-Married to: [Perry Hindricks](./Perry-Hindricks.html) in ~1862 (1900 Indiana census)
+Married to: [Perry Hindricks](./Perry-Hindricks.md) in ~1862 (1900 Indiana census)
 
 DOD: 

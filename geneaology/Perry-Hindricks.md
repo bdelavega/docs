@@ -12,6 +12,6 @@ Lived in:
 
 * Hancock, Indiana (1900 Indiana census)
 
-Married to: [Mary H Hindricks](./Mary-H-Hindricks.html) in ~1862 (1900 Indiana census)
+Married to: [Mary H Hindricks](./Mary-H-Hindricks.md) in ~1862 (1900 Indiana census)
 
 DOD: 

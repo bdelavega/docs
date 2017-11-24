@@ -17,6 +17,6 @@ Lived in:
 * Chambersburg Ward 1, Franklin, Pennsylvania, United States (1930 census)
 * 
 
-Married to: [Louis R Bowers](./Louis-R-Bowers.html) (widowed by 1930 census)
+Married to: [Louis R Bowers](./Louis-R-Bowers.md) (widowed by 1930 census)
 
 DOD: 

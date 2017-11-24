@@ -16,6 +16,6 @@ Lived in:
 * Brookfield, CT
 
 
-Married to: [Gabriel-Raul-de la Vega](./Gabriel-Raul-de-la-Vega.html) on 25-Jun-1945 in Cook County IL
+Married to: [Gabriel-Raul-de la Vega](./Gabriel-Raul-de-la-Vega.md) on 25-Jun-1945 in Cook County IL
 
 DOD 7-Jul-2004 in Danbury Hospital, Danbury CT
