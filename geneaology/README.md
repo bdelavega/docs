@@ -5,7 +5,7 @@ This folder contains my geneaology notes.
 To start navigating, try my [Mom](./Betty-Louise-Bowers.md) or [Dad](./Gabriel-Raul-de-la-Vega.md).
 
 
-##resources##
+## resources
 I used:
 
 [Ancestry](http://www.ancestry.com/)
@@ -17,6 +17,6 @@ I used:
 [Distant Cousin](http://distantcousin.com/)
 
  
-##notes##
+## notes
 
 * Chris de la Vega had a professor named "de la Vega" via Mexico - she thought the family was from Asturias region of Spain
