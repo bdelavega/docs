@@ -1,5 +1,7 @@
 # On Religion
 
+People believe a lot of different things for a lot of different reasons.  So I generally think a wide berth should be given to various beliefs.
+
 If you get together with your neighbors and talk about how to be a better person, or dance or sing or pray.
 - Great! I envy you.
 
@@ -9,7 +11,7 @@ If you want to tell other people to join your club because you're right and the 
 
 ## On Catholicism, Specifically
 
-This ideology was and is very successful as a meme or set of memes. It has 1+ billion adherents.
+This ideology was and is very successful as a meme or set of memes. It has 1+ billion adherents!
 
 Yet it seems outdated. If everyone fucked without birth control we would exceed the carrying capacity of the Earth within 10 or so years.
 
@@ -34,4 +36,4 @@ Additionally having a savings amount bumps you up this way:
 from 1M - 10M increase income by 10k
 above 10M - +20 on income
 
-Taxes have to be balanced with other nations. If the taxes are really high compared to similar countries; people with the means to travel will leave. This is one of the failures of communism.
+Taxes have to be balanced with other nations. If the taxes are high compared to similar other countries, people with the means to travel will leave. This is one of the failures of communism. That said some minor increase in the tax rate won't push many people out. 
