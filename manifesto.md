@@ -47,3 +47,10 @@ In the actual world, governments set taxes. If you think about implementing this
 ### On Implementation in the USA
 In the US we have increasing rates at the low end of the income spectrum, with rates dropping off for the very wealthy. We could use such a power law of tax rates to fix the inverted U-shaped curve we currently have. In my opinion, this additional income should be used to reduce the deficit _and_ provide poor children with better living standards.
 
+# On Politics
+Vote your conscience. Remember people can lie to you. People with money on the line find it easier to lie.
+
+## On Parties
+Parties are clubs to weild power. In the USA there are 2 large parties. They are both so large that they can spread the cost of lying across many people with mass media. (Aside: This fact applies to businesses and people as well. If they control media and you aren't paying them for what you consume, they are probably lying to you for money :)
+
+Advertising is a business that converts money into beliefs. It is funny because advertizers don't always know in advance what the belief outcome will be. But they usually do.
